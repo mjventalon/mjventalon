@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0" stop-color="#E4141D" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#E4141D"/>
+      <stop offset="1" stop-color="#E4141D" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#1c1c1f" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" fill="#000"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+  <!-- price-chart style line -->
+  <polyline fill="none" stroke="#E4141D" stroke-opacity="0.35" stroke-width="2"
+    points="0,250 80,232 160,240 240,205 320,214 400,180 480,192 560,150 640,165 720,128 800,140 880,96 960,112 1040,70 1120,84 1200,48">
+    <animate attributeName="stroke-dasharray" from="0,2000" to="2000,0" dur="3s" fill="freeze"/>
+  </polyline>
+  <text x="600" y="128" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#fff">Marin J. Ventalon</text>
+  <text x="600" y="178" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="24" fill="#bdbdbd">finance &amp; software · markets · quant · python · c++<tspan fill="#E4141D">█<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></tspan></text>
+  <rect x="300" y="210" width="600" height="3" fill="url(#line)">
+    <animate attributeName="x" values="0;600;0" dur="6s" repeatCount="indefinite"/>
+  </rect>
+  <text x="600" y="262" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#8a8a8a">Creator of quantforge · France → USA</text>
+</svg>
