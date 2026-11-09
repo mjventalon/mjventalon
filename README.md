@@ -23,7 +23,8 @@ money and an **Academy** with verifiable certificates.
 - ~23,000 lines · tested on Linux, macOS and Windows with GitHub Actions
 
 <p align="center">
-  <a href="https://github.com/mjventalon/quantforge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mjventalon&repo=quantforge&theme=dark&bg_color=0b0b0d&title_color=E4141D&icon_color=E4141D&border_color=2a2a2e" alt="quantforge"></a>
+  <a href="https://github.com/mjventalon/quantforge"><img src="https://img.shields.io/github/stars/mjventalon/quantforge?style=for-the-badge&color=E4141D&labelColor=0b0b0d&label=stars" alt="Stars"></a>
+  <a href="https://github.com/mjventalon/quantforge/commits"><img src="https://img.shields.io/github/last-commit/mjventalon/quantforge?style=for-the-badge&color=E4141D&labelColor=0b0b0d&label=last%20commit" alt="Last commit"></a>
 </p>
 
 ## 🧰 Tech stack
@@ -35,8 +36,12 @@ money and an **Academy** with verifiable certificates.
 ## 📊 GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mjventalon&show_icons=true&theme=dark&bg_color=0b0b0d&title_color=E4141D&icon_color=E4141D&border_color=2a2a2e&hide=contribs" height="165" alt="Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjventalon&layout=compact&theme=dark&bg_color=0b0b0d&title_color=E4141D&border_color=2a2a2e" height="165" alt="Top languages">
+  <img src="profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="Contributions">
+</p>
+
+<p align="center">
+  <img src="profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="Stats">
+  <img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Languages">
 </p>
 
 <p align="center">
